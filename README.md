@@ -66,8 +66,8 @@ They’re not just repositories — they’re my ideas coming to life while I ex
 ## 🌸 Thank You!!!
 **P.S. Do check out my repositories!!!**
 
-<img width="143" height="159" alt="image" src="https://github.com/user-attachments/assets/0bec0b12-7f73-4ba2-a2dc-31fbf585b069" />4
+<img width="143" height="159" alt="image" src="https://github.com/user-attachments/assets/0bec0b12-7f73-4ba2-a2dc-31fbf585b069" />
 
-## ************************************************************************************************
+## ***
 
 
