@@ -22,7 +22,7 @@ CHECK IT OUT USING THE LIVE DEMO 👇
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-purple?style=for-the-badge)](https://todo-app-lq4o.onrender.com/register/)
 
-(⚠️ Free hosting may cause cold starts — thanks for your patience!)
+⚠️ Free hosting may cause cold starts — thanks for your patience!
 
 🛠 Tech: Django • Python • HTML • CSS
 
