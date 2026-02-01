@@ -68,6 +68,6 @@ They’re not just repositories — they’re my ideas coming to life while I ex
 
 <img width="143" height="159" alt="image" src="https://github.com/user-attachments/assets/0bec0b12-7f73-4ba2-a2dc-31fbf585b069" />
 
-## ***
+## ************************
 
 
