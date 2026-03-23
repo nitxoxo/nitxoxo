@@ -1,14 +1,12 @@
 ## 🎯 About Me
 
-🎓 Hey! I’m Nithu, a 17 y/o aspiring Computer Science student who enjoys turning ideas into working web applications.  
+🎓 Hey! I’m Nithu, I enjoy turning ideas into working web applications.  
 I focus on learning by building projects from scratch and understanding how things work behind the scenes.
-
-*Every project here represents real effort, problem-solving, and growth — not just code, but ideas coming to life.*
 
 ---
 
 ## 🛠️ Tech I’m working with
-🐍 Python &nbsp;|&nbsp; 🌐 Django &nbsp;|&nbsp; 🎨 HTML & CSS &nbsp;|&nbsp; ✨ Git & GitHub
+🐍 Python &nbsp;|&nbsp; 🌐 Django &nbsp;|&nbsp; 🎨 HTML & CSS &nbsp;|&nbsp; ✨ 
 
 ---
 
