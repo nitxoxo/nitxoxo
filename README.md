@@ -48,12 +48,6 @@ Currently building & refining ✨
 
 ---
 
-## 😄 A little more about me
-Every project here represents **time, effort, and growth**.  
-They’re not just repositories — they’re my ideas coming to life while I explore, try, fail and learn again and again! 
-
----
-
 ## 💬 Reach me on- 
 --> nithushree1668@gmail.com
 
